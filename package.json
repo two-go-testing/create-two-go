@@ -10,6 +10,9 @@
     "index.js",
     "templates"
   ],
+  "scripts": {
+    "test": "node --test test/cli.test.mjs"
+  },
   "engines": {
     "node": ">=18"
   },
